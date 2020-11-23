@@ -9,5 +9,5 @@ Tembién descurbrí https://colab.research.google.com/notebooks/intro.ipynb si b
 
 Arbol de desisión: Liberia Python from sklearn.datasets import load_wine
 
-Peliculas: IMDb https://datasets.imdbws.com/
+Películas: IMDb https://datasets.imdbws.com/
 
