@@ -1,8 +1,9 @@
 # Python
 
-En este repo muestro algunos trabajos en python.
+En este repo muestro algunos trabajos de procesamiento de datos en Python.
 
-### Data sets:
+
+### Datasets:
 
 Arbol de desisión: Liberia Python from sklearn.datasets import load_wine
 
