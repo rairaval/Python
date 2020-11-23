@@ -10,4 +10,4 @@ Arbol de desisión: Liberia Python from sklearn.datasets import load_wine
 Peliculas: IMDb https://datasets.imdbws.com/
 
 
-![Carretera](Chttps://www.imdb.com/interfaces/)
+![IMDb](Chttps://www.imdb.com/interfaces/)
