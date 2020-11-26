@@ -11,7 +11,7 @@ Arbol de desisión: Liberia Python from sklearn.datasets import load_wine
 Busco bajar en nivel de entropia de la variable que quiero predecir, mediante caracteristicas observables del vino. Si disminuyo la entropía, puedo discriminar mejor y saber mas sobre la variable objetivo. 
 (a modo de ejemplo, una distribución uniforme tiene entropia máxima)
 
-Clustering: Dataset de archivo.
+Clustering: Dataset de archivo: Mall_custumers
 
 Explora_data_películas: Un analisis exploratorio de la base de datos peliculas en IMDb https://datasets.imdbws.com/
 
