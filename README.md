@@ -13,6 +13,8 @@ Busco bajar en nivel de entropia de la variable que quiero predecir, mediante ca
 
 **Clustering:** Dataset de archivo: Mall_custumers.
 
+**Peliculas Kaggle** Analisis de un data set de Kaggle sobre peliculas de IMDb. Liempieza de datos y modelos de Regresion Lineal Múltiple.
+
 **Sesgo varianza fiting:** Breves anotaciones.
 
 **Explora_data_películas:** Un analisis exploratorio de la base de datos peliculas en IMDb https://datasets.imdbws.com/
